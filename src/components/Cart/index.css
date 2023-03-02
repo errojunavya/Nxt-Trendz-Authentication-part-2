@@ -1,0 +1,12 @@
+/* Write your CSS code here */
+.container {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.image {
+  margin-top: 15px;
+  height: 300px;
+}
